@@ -9,4 +9,4 @@ I Have divided files into 3 parts
 
 One thing to remember is that the decrypt funconality can only decrypt the mesaage which was encrypted by this app only.
 
-The u.i is pretty simple and you will easily understand wha't going on behind the hood
+The u.i is pretty simple and you will easily understand what's going on behind the hood
